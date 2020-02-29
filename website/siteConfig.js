@@ -24,7 +24,7 @@ const siteConfig = {
   title: 'BIIR.doc', // Title for your website.
   tagline: 'BIIR Software documentation and guideline',
   url: 'https://github.com/SkyLightSK/skylightsk.github.io.git', // Your website URL
-  baseUrl: '/biir-software-doc', // Base URL for your project */
+  baseUrl: '/biir-software-doc/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
